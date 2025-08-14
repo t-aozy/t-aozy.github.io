@@ -8,5 +8,5 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-[Download Workshop Slides (PDF)](/teaching/Slide9ann.pdf) — Materials from the Spring 2015 graduate workshop on Bayesian methods.
+[Download Workshop Slides (PDF)](/_teaching/Slide9ann.pdf) — Materials from the Spring 2015 graduate workshop on Bayesian methods.
 
