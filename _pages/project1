@@ -9,13 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Spacekime
+Analytics: \\ A Novel Framework for Time Series Modeling and fMRI Data Analysis
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* This project is driven by our interest in understanding how discrete music categories are represented in human brain. 
+Inspired by Nakai T's work \textbf{"Correspondence of categorical and feature-based representations of music in the human brain"} 
+published in 2021. We focused on the analysis of high-dimensional fMRI data by first testing out the performance of benchmark models 
+for music classification task (traditional statistical models and machine learning models) and introducing a novel framework for time 
+series analysis which is particularly useful in analyzing fMRI data.
+
+On-going Papers
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
