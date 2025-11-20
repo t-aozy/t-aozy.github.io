@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "ZYT"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,26 +23,26 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  # avatar           : "profile.png"
+  name             : "Ziyi Tao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "This is the introduction website of my previous projects."
+  location         : "Ann Arbor, MI 48105"
+  employer         : "University of Michigan - Ann Arbor"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "taozy@umich.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  # academia         : # URL
+  # arxiv            : # URL - Update with the correct link to your profile
+  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  # inspire-hep      : # URL
+  # impactstory      : # URL
+  # orcid            : "https://orcid.org/yourorcidurl"
+  # semantic         : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # researchgate     : # URL
+  # scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
