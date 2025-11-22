@@ -16,10 +16,10 @@ main:
     url: /project2/    
 
   - title: "Project 3"
-    url: /teaching/ 
+    url: /project3/ 
 
   - title: "Project 4"
-    url: /teaching/
+    url: /project4/
     
   # - title: "Portfolio"
   #   url: /portfolio/
