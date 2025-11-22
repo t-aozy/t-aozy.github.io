@@ -27,16 +27,18 @@ Y_{j,k} = S(t_k, \theta_{j,k}) + \epsilon_{j,k}
 = a_0(t_k) + \sum_{n=1}^{N_{harm}} \big[a_n(t_k)\cos(n\theta_{j,k}) + b_n(t_k)\sin(n\theta_{j,k})\big] + \epsilon_{j,k}
 $$
 
-  - $j = 1, 2, \dots, N$ (N individuals / repeated measurements)  
-  - $k = 1, 2, \dots, K$ (K time steps)  
-  - $\epsilon_{j,k} \sim N(0, \sigma^2)$  
-  - We represent $S(t, \theta)$ using a finite-order Fourier expansion in $\theta$.  
-    The series is truncated at order $N_{harm}$, corresponding to $N_{harm}$ harmonic components.
-- <span>\( j = 1, 2, \dots, N \)</span> — N individuals / repeated measurements  
-- <span>\( k = 1, 2, \dots, K \)</span> — K time steps  
-- <span>\( \epsilon_{j,k} \sim N(0, \sigma^2) \)</span>  
-- We represent <span>\( S(t, \theta) \)</span> using a finite-order Fourier expansion in θ.  
-  The series is truncated at order <span>\( N_{harm} \)</span>, corresponding to \( N_{harm} \) harmonic components.
+$$
+j = 1, 2, \dots, N \quad \text{(N individuals / repeated measurements)}
+$$
+$$
+k = 1, 2, \dots, K \quad \text{(K time steps)}
+$$
+$$
+\epsilon_{j,k} \sim N(0, \sigma^2)
+$$
+$$
+S(t, \theta) \text{ is represented using a finite-order Fourier expansion in } \theta
+$$
 
 
 ## Working Papers
