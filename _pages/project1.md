@@ -29,10 +29,10 @@ $$
 
 $$
 \begin{aligned}
-j &= 1, 2, \dots, N \quad \text{(N individuals / repeated measurements)}\\
-k &= 1, 2, \dots, K \quad \text{(K time steps)}\\
-\epsilon_{j,k} &\sim N(0, \sigma^2)\\
-S(t, \theta) &\text{ is represented using a finite-order Fourier expansion in } \theta
+& j = 1, 2, \dots, N \quad \text{(N individuals / repeated measurements)}\\
+& k = 1, 2, \dots, K \quad \text{(K time steps)}\\
+& \epsilon_{j,k} \sim N(0, \sigma^2)\\
+& S(t, \theta) \text{ is represented using a finite-order Fourier expansion in } \theta
 \end{aligned}
 $$
 
