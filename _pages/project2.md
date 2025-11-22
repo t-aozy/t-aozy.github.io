@@ -15,18 +15,18 @@ kramdown:
 
 ## Overview
 
-This is a methodological research driven by 
+This research is motivated by challenges in electronic health records(EHR) analysis, where the true clinical outcome Y is difficult to obtain
+because it is embedded in unstructured free-text notes. In contrast, surrogate variables S are easy to extract but are noisy, error-prone, 
+and may include irrelevant or weakly informative proxies. Since these surrogates cannot be treated as the true outcome, out work develops a new method to reliably infer Y with the assiatnce of surrogate variables S based on a novel pre-additive noise distribution model called "Engression" from our previous work and explores the bias correction for such methods.
 
-## Working Papers
+## Previous Work
+One important component of our proposed model is built upon the previous work of our team, which is a neural network-based distributional regression method called engression introduced in the paper "Engression: Extrapolation through the Lens of Distributional Regression?". This method provides a principled approach for modeling conditional distributions and has strong extrapolation properties. An open-source implementation and the paper of engression is available at: https://github.com/xwshen51/engression
 
-### Working Paper 1
-Theory Part
 
-### Working Paper 2
-Application Part
 
-##  General Idea in Glance
-<iframe src="{{ site.baseurl }}/files/Kime_Algorithm.pdf" 
+
+##  Latest Result
+<iframe src="{{ site.baseurl }}/files/Engression.pdf" 
         width="100%" 
         height="600px" 
         style="border:1px solid #ccc;">
