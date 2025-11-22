@@ -43,4 +43,15 @@ Theory Part
 Application Part
 
 ##  General Idea in Glance
+<iframe src="{{ site.baseurl }}/files/paper3.pdf" 
+        width="100%" 
+        height="600px" 
+        style="border:1px solid #ccc;">
+</iframe>
+
+
+
+
+
+
 
