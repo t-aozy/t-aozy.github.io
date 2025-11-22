@@ -47,7 +47,7 @@ Theory Part
 Application Part
 
 ##  General Idea in Glance
-<iframe src="{{ site.baseurl }}/files/paper3.pdf" 
+<iframe src="{{ site.baseurl }}/files/Kime_Algorithm.pdf" 
         width="100%" 
         height="600px" 
         style="border:1px solid #ccc;">
