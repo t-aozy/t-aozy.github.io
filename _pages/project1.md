@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Spacekime
-Analytics: \\ A Novel Framework for Time Series Modeling and fMRI Data Analysis
-======
+# Spacekime Analytics: 
+##  A Novel Framework for Time Series Modeling and fMRI Data Analysis
+
 
 * This project is driven by our interest in understanding how discrete music categories are represented in human brain. 
 Inspired by Nakai T's work \textbf{"Correspondence of categorical and feature-based representations of music in the human brain"} 
