@@ -14,7 +14,7 @@ kramdown:
 # Public Attitudes Toward Marginalized Groups: <br> A Statistical Study of "Coming Out" Narratives on Social Media
 
 ## Timeline
-This project was a coursework assigenment completed in **Fall 2023** during my undergraduate studies. I served as the team leader, coordinating a team of five members from diverse academic backgrounds.
+This project was a coursework assigenment completed in **Fall 2022** during my undergraduate studies. I served as the team leader, coordinating a team of five members from diverse academic backgrounds.
 
 ## Overview
 
