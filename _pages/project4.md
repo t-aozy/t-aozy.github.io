@@ -40,7 +40,7 @@ and conducting text co-occurrence networks analysis to examine semantic relation
 Sentimental analysis was also applied to explore the project question.
 
 ##  Project Content
-The original version is in Chinese, which available here: <br>
+The original version is in Chinese, which is available here: <br>
 The following version is translated using AI toolds.
 <iframe src="{{ site.baseurl }}/files/project4.pdf" 
         width="100%" 
