@@ -22,7 +22,6 @@ platform like "Bilibili", people from Chinese monority groups, especially young 
 For analysis, we considered "Bilibili" app as the data source and "coming out" as the keyword, and collected relevant video information and selected representative videos to extract associated comments. Data analysis methods including word clouds, keyword analysis, paired analysis, and co-occurrence network analysis were employed to examine the perspectives of narrators and observers.
 
 <img width="549" height="474" alt="image" src="https://github.com/user-attachments/assets/ea63c255-d041-4ebc-964d-9d73e5ffa716" />
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/1ca6c91a-1620-4324-9e40-f32942077497" />
 
 
 ## Findings
