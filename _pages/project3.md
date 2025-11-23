@@ -11,7 +11,7 @@ kramdown:
 
 {% include base_path %}
 
-# Spacekime Analytics:  <br> A Novel Framework for Time Series Modeling and fMRI Data Analysis
+# AI Chatbot Development with LLM
 
 ## Timeline
-I joined this project since Oct 2024.
+I joined this project since Oct 2023, left in June 2024.
