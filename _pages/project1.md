@@ -56,6 +56,11 @@ Application Part
         style="border:1px solid #ccc;">
 </iframe>
 
+The correct display should look like this, please reach out to taozy@umich.edu if any error occurs: <br>
+<img width="500" height="403" alt="image" src="https://github.com/user-attachments/assets/b7a8945c-0a4a-43a9-9cc0-a86e94f0a0a0" />
+
+
+
 
 
 
