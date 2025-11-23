@@ -13,6 +13,9 @@ kramdown:
 
 # Spacekime Analytics:  <br> A Novel Framework for Time Series Modeling and fMRI Data Analysis
 
+## Timeline
+I joined this project since Oct 2024.
+
 ## Overview
 
 This is a multi-stage project consisting of 2 main parts: (1) a theoretical component developing the Spacekime Framework for time series analysis, and (2) an applied component implementing and evaluating the method on fMRI data analysis, in particular, focusing on understanding how discrete music categories are represented in human brain.
