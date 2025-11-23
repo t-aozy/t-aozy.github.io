@@ -13,6 +13,9 @@ kramdown:
 
 # Surrogate-Assisted Distributional Modeling with Bias Correction
 
+## Timeline
+I joined this project since July 2025.
+
 ## Overview
 
 This research is motivated by challenges in electronic health records(EHR) analysis, where the true clinical outcome Y is difficult to obtain
