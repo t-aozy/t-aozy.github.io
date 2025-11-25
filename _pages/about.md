@@ -12,8 +12,9 @@ redirect_from:
 ## About Me
 Hi!
 
-I am a second-year M.S. student majoring in Applied Statistics at the Univeristy of Michigan. 
-I am interested in research across both theoretical and applied domains. On the applied side, I am particularly interested in solving real-life problems using machine learning and statistical methods in the health domain. For example, my work involves analyzing biomedical data such as neuroimaging(fMRI) and exploring applications of large language models (LLMs) in healthcare. On the theoretical side, I am especially interested in high-dimensional statistics, machine learning theory and developing robust methods for complex data analysis.
+I am a second-year M.S. student majoring in Applied Statistics at the Univeristy of Michigan. Welcome to my personal website!
+I'm currently searching for a Ph.D. position in the field of Statistics and Data Science.
+My research interests lie in both theoretical and applied domains. On the applied side, I am particularly interested in solving real-life problems using machine learning and statistical methods in the health domain. For example, my work involves analyzing biomedical data such as neuroimaging(fMRI) and exploring applications of large language models (LLMs) in healthcare. On the theoretical side, I am especially interested in high-dimensional statistics, machine learning theory and developing robust methods for complex data analysis.
 
 ## Projects
 * Spacekime Analytics: A Novel Framework for Time Series Modeling and fMRI Data Analysis
