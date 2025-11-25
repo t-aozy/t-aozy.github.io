@@ -23,10 +23,10 @@ repository               : "t-aozy/t-aozy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  #avatar           : ""
   name             : "Ziyi Tao"
   pronouns         : # example: "she/her"  
-  bio              : "This is the introduction website of my previous projects."
+  bio              : "Welcome to my personal website!"
   location         : "Ann Arbor, MI 48105"
   employer         : "University of Michigan"
   uri              : # URL
