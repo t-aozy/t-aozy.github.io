@@ -32,8 +32,9 @@ and may include irrelevant or weakly informative proxies. Since these surrogates
 One important component of our proposed model is built upon the previous work of our team, which is a neural network-based distributional regression method called engression introduced in the paper "Engression: Extrapolation through the Lens of Distributional Regression?". This method provides a principled approach for modeling conditional distributions and has strong extrapolation properties. An open-source implementation and the paper of engression is available at: https://github.com/xwshen51/engression
 
 In this paper, We propose a new method ‘engression’ for estimating the conditional distribution of a response variable given covariates and we showed that Engression in conjunction with pre-additive noise models provides a new perspective for the extrapolation problem in nonlinear regression.
-
-
+<p align="center">
+<img width="836" height="458" alt="image" src="https://github.com/user-attachments/assets/ee0fc35a-e46c-4b0f-bd12-2d7ae7436e64" />
+</p>
 
 
 ##  Latest Result
@@ -45,9 +46,9 @@ In this paper, We propose a new method ‘engression’ for estimating the condi
 
 The correct display should look like this, please reach out to taozy@umich.edu if any error occurs: <br>
 
-
+<p align="center">
 <img width="500" height="308" alt="image" src="https://github.com/user-attachments/assets/826e6c83-4a2d-43f8-b06e-4347eef9f81f" />
-
+</p>
 
 
 
