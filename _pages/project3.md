@@ -13,8 +13,11 @@ kramdown:
 
 # AI Chatbot Development with LLM
 
-## Timeline
-I joined this project since Oct 2023, left in June 2024, at Center for Data Science, Zhejiang University.
+## Timeline: October 2023 - June 2024
+
+## Research Focus
+* **LLM with Retrival-Augmented Generation**
+* **NLP: Similarity Search, text classification**
 
 ## Overview
 The goal for this project is to develop a professional AI Chatbot based on LLM for the diagnostic and doctor-patient communication specializing in the field of **Childhood Obesity**. We worked closely with doctors to obtain professional suggestions and knowledge.
