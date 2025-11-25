@@ -15,6 +15,12 @@ kramdown:
 
 ## Timeline: July 2025 - Present
 
+## Research Focus
+* **Imputation Methods**
+* **Distributional Model**
+* **Bias Correction**
+* **Surrogate Assiated Statistical Inference**
+
 ## Overview
 
 This research is motivated by challenges in electronic health records(EHR) analysis, where the true clinical outcome Y is difficult to obtain
