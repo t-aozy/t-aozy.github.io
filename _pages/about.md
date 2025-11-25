@@ -22,13 +22,13 @@ I am interested in research across both theoretical and applied domains. On the 
 * Public Attitudes Toward Marginalized Groups: A Statistical Study of “Coming Out” Narratives on Social Media
 
 ## Education
-
-* M.S. in Applied Statistics, University of Michigan - Ann Arbor | 2024-2026(Expected)
-* B.S. in Economics, minor in Science, Renmin University of China | 2019-2023
+* **2024-2026(Expected)** </br>
+M.S. in Applied Statistics, University of Michigan - Ann Arbor       
+* **2019-2023** </br> B.S. in Economics, Minor in Science, Renmin University of China      
 
 ## Internship
-* Graduate Student Instructor in the Department of Statistics | May - July 2025
-* Data Analyst in Beijing Smart & Green Transport Research Center | April - September 2025
+* **May - July 2025** </br> Graduate Student Instructor in the Department of Statistics 
+* **April - September 2023** </br> Data Analyst in Beijing Smart & Green Transport Research Center 
 
 ## News (11.25)
 **[Weekly Commitment]** Reading papers for bias correction, reviewing paper.
