@@ -47,7 +47,7 @@ The following version is translated using AI toolds.
         style="border:1px solid #ccc;">
 </iframe>
 
-The correct display should look like this, please reach out to taozy@umich.edu is any error occurs: <br>
+The correct display should look like this, please reach out to taozy@umich.edu if any error occurs: <br>
 <img width="500" height="285" alt="image" src="https://github.com/user-attachments/assets/72a44227-2059-45e7-a11b-bc96791728d6" />
 
 
