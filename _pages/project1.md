@@ -15,9 +15,9 @@ kramdown:
 
 ## Working Papers & Preprint
    * Theory Part: Complex-time Representation, Kime-Phase Tomography, and Spacekime Analytics
-      -   Anticipated to be on Arxiv at 12.25, 2025: [link](cc.com)
+      -   Anticipated to be on Arxiv at 12.25, 2025: [Link](cc.com)
    * Application Part: Learning Prediction and AI Modeling of Music Genre Perception Based on fMRI Data (Working) 
-      -   Working Papers: [link](aa.com)
+      -   Working Papers: [Link](aa.com)
 
 ## Timeline: Oct 2024 - Present
 
@@ -34,7 +34,7 @@ This is a multi-stage project consisting of 2 main parts: (1) a theoretical comp
 On the application side, our work is motivated by the 2021 study by Nakai T et al.,  **"Correspondence of categorical and feature-based representations of music in the human brain"** , which focused on classifying music through fMRI data. Given our long-standing interest in brain data analysis, we saw great space to extend this line of research and improve classification accuracy. This task also provides a suitable platform for evaluating our novel time-series modeling framework. Accordingly, we are currently preparing a manuscript that benchmarks state-of-the-art models for fMRI-based music classification and applies our proposed framework to this classification problem.
 The following figure provides a visualization of the structure of the fMRI data we processed, to be precise, there are 10 different music genres to classify, fMRI signals were recorded every 1.5 seconds. During each run, each participant listened to 41 sgments of music, with each segment lasting 1.5, resulting in a total duration of 410 x 1.5 seconds.
 
-The study by Nakai T et al. is available here: https://pubmed.ncbi.nlm.nih.gov/33164348/
+The study by Nakai T et al. is available here: [Link](https://pubmed.ncbi.nlm.nih.gov/33164348/)
 
 <p align="center">
   <img width="746" height="440" alt="image" src="https://github.com/user-attachments/assets/394c590b-125a-4c46-a056-68a9ed153a4d" />
