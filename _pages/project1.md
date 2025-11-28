@@ -15,7 +15,7 @@ kramdown:
 
 ## Working Papers & Preprint
    * Theory Part: Complex-time Representation, Kime-Phase Tomography, and Spacekime Analytics
-      -  Anticipated to be on Arxiv at 12.25, 2025: [Link](/files/SOCR_SKA_KPT_V3.pdf)
+      -  Anticipated to be on Arxiv at 12.25, 2025: [Link](/files/SOCR_SKA_KPT_V3.pdf) [updated 11.28]
    * Application Part: Learning Prediction and AI Modeling of Music Genre Perception Based on fMRI Data (Working) 
       -   Working Papers: [Link](/files/Understanding_auditory_pathways_ML.pdf) 
 
