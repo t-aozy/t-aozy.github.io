@@ -12,7 +12,7 @@ kramdown:
 {% include base_path %}
 
 # Surrogate-Assisted Distributional Modeling with Bias Correction
-
+Latest result is available [here](/files/engression.pdf). 
 ## Timeline: July 2025 - Present
 
 ## Research Focus
