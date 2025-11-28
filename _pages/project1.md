@@ -18,6 +18,7 @@ kramdown:
       -   Anticipated to be on Arxiv at 12.25, 2025: [Link](/files/SOCR_SKA_KPT_V3.pdf)
    * Application Part: Learning Prediction and AI Modeling of Music Genre Perception Based on fMRI Data (Working) 
       -   Working Papers: [Link](/files/Understanding_auditory_pathways_ML.pdf) 
+
 ## Timeline: Oct 2024 - Present
 
 ## Research Focus
