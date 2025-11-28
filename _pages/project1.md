@@ -13,6 +13,12 @@ kramdown:
 
 # Spacekime Analytics:  <br> A Novel Framework for Time Series Modeling and fMRI Data Analysis
 
+## Working Papers & Preprint
+   * Theory Part: Complex-time Representation, Kime-Phase Tomography, and Spacekime Analytics
+
+   * Application Part: Learning Prediction and AI Modeling of Music Genre Perception Based on fMRI Data (Working) 
+
+
 ## Timeline: Oct 2024 - Present
 
 ## Research Focus
@@ -54,13 +60,6 @@ $$
 <img width="632" height="173" alt="image" src="https://github.com/user-attachments/assets/d430d529-0aaf-45ef-80bb-e9b4caa85ccd" />
 </p>
 
-## Working Papers
-
-### Working Paper 1
-Theory Part
-
-### Working Paper 2
-Application Part
 
 ##  General Idea in Glance
 <iframe src="{{ site.baseurl }}/files/Kime_Algorithm.pdf" 
