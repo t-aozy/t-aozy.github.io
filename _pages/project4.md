@@ -40,7 +40,7 @@ Sentimental analysis was also applied to explore the project question.
 
 ##  Project Content
 The original version is in Chinese, which is available here: <br>
-The following version is translated using AI toolds.
+The following version is a translated version.
 <iframe src="{{ site.baseurl }}/files/project4.pdf" 
         width="100%" 
         height="600px" 
