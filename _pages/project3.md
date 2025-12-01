@@ -17,7 +17,7 @@ Code and descriptions are available [here](https://github.com/t-aozy/AI-Chatbot-
 
 ## Research Focus
 * **LLM with Retrival-Augmented Generation**
-* **NLP: Similarity Search, text classification**
+* **NLP: Similarity Search, Text classification**
 
 ## Overview
 The goal for this project is to develop a professional AI Chatbot based on LLM for the diagnostic and doctor-patient communication specializing in the field of **Childhood Obesity**. We worked closely with doctors to obtain professional suggestions and knowledge.
