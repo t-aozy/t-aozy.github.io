@@ -62,6 +62,8 @@ $$
 
 
 ##  General Idea in Glance
+For simulations, codes, and visualization, I highly recommended you to check this link: 
+[https://socr.umich.edu/TCIU/HTMLs/TCIU_SK_Appendix03_KPT_DS_fMRI_V5.html]
 <iframe src="{{ site.baseurl }}/files/Kime_Algorithm.pdf" 
         width="100%" 
         height="600px" 
