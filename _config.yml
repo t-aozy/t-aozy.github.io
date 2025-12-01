@@ -23,7 +23,7 @@ repository               : "t-aozy/t-aozy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  #avatar           : ""
+  avatar           : "image/phd_avatar.png"
   name             : "Ziyi Tao"
   pronouns         : # example: "she/her"  
   bio              : "Welcome to my personal website!"
