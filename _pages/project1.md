@@ -62,7 +62,7 @@ $$
 
 
 ##  General Idea in Glance
-For **simulations, codes, visualizations and math framework**, I highly recommended to check this link: 
+For **simulations, codes, visualizations and math framework**, I highly recommended to check this link: (Link)
 [https://socr.umich.edu/TCIU/HTMLs/TCIU_SK_Appendix03_KPT_DS_fMRI_V5.html]
 <iframe src="{{ site.baseurl }}/files/Kime_Algorithm.pdf" 
         width="100%" 
