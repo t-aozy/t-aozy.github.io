@@ -13,6 +13,8 @@ kramdown:
 
 # Spacekime Analytics:  <br> A Novel Framework for Time Series Modeling and fMRI Data Analysis
 
+For a detailed overview of our work including **simulations, codes, visualizations and math framework**, it is highly recommended to check this link: [Link](https://socr.umich.edu/TCIU/HTMLs/TCIU_SK_Appendix03_KPT_DS_fMRI_V5.html)
+
 ## Working Papers & Preprint
    * Theory Part: Complex-time Representation, Kime-Phase Tomography, and Spacekime Analytics
       -  Anticipated to be on arXiv soon: [updated 12.1, 2025] [Link](/files/SOCR_SKA_KPT_V3.pdf) 
@@ -62,8 +64,7 @@ $$
 
 
 ##  General Idea in Glance
-For **simulations, codes, visualizations and math framework**, I highly recommended to check this link: [Link]
-(https://socr.umich.edu/TCIU/HTMLs/TCIU_SK_Appendix03_KPT_DS_fMRI_V5.html)
+For **simulations, codes, visualizations and math framework**,  it is highly recommended to check this link: [Link](https://socr.umich.edu/TCIU/HTMLs/TCIU_SK_Appendix03_KPT_DS_fMRI_V5.html)
 <iframe src="{{ site.baseurl }}/files/Kime_Algorithm.pdf" 
         width="100%" 
         height="600px" 
