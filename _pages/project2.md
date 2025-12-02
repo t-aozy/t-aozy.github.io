@@ -35,7 +35,7 @@ and may include irrelevant or weakly informative proxies. Since these surrogates
 
 
 ## Previous Work
-One important component of our proposed model is built upon the previous work of our team, which is a neural network-based distributional regression method called engression introduced in the paper "Engression: Extrapolation through the Lens of Distributional Regression?". This method provides a principled approach for modeling conditional distributions and has strong extrapolation properties. An open-source implementation and the paper of engression is available at: https://github.com/xwshen51/engression
+One important component of our proposed model is built upon the previous work of our team, which is a neural network-based distributional regression method called engression introduced in the paper "Engression: Extrapolation through the Lens of Distributional Regression?". This method provides a principled approach for modeling conditional distributions and has strong extrapolation properties. An open-source implementation and the paper of engression is available at: (https://github.com/xwshen51/engression)
 
 In this paper, We propose a new method ‘engression’ for estimating the conditional distribution of a response variable given covariates and we showed that Engression in conjunction with pre-additive noise models provides a new perspective for the extrapolation problem in nonlinear regression.
 <p align="center">
