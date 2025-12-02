@@ -28,7 +28,7 @@ My research interests lie in both theoretical and applied domains. On the applie
 ## Projects
 * Spacekime Analytics: A Novel Framework for Time Series Modeling and fMRI Data Analysis
 * Surrogate-Assisted Distributional Modeling with Bias Correction
-* AI Chatbot Development with LLM
+* AI Doctor Chatbot Development with LLM
 * Public Attitudes Toward Marginalized Groups: A Statistical Study of “Coming Out” Narratives on Social Media
 
 ## Education
