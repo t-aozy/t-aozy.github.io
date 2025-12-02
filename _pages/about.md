@@ -18,7 +18,9 @@ My research interests lie in both theoretical and applied domains. On the applie
 
 <img width="185" height="245" alt="image" src="https://github.com/user-attachments/assets/6a8e87c0-ba29-48b1-a848-440a580b5c57" />
 <img width="280" height="200" alt="image" src="https://github.com/user-attachments/assets/0006e88e-755f-4215-9fc2-7d1959abcf05" />
-<img width="240" height="245" alt="image" src="https://github.com/user-attachments/assets/3da2de0a-eae4-4586-b1fc-f1235941c7d3" />
+<img width="240" height="580" alt="image" src="https://github.com/user-attachments/assets/a67f337b-b3d2-44b4-9278-f73ba5576f33" />
+
+
 
 
 
