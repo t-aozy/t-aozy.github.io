@@ -38,6 +38,7 @@ The following figure provides a visualization of the structure of the fMRI data 
 
 The study by Nakai T et al. is available here: [Link](https://pubmed.ncbi.nlm.nih.gov/33164348/)
 
+Below is the visualization of the fMRI data created by our team.
 <p align="center">
   <img width="746" height="440" alt="image" src="https://github.com/user-attachments/assets/394c590b-125a-4c46-a056-68a9ed153a4d" />
 </p>
