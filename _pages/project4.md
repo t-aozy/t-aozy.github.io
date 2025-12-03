@@ -16,6 +16,11 @@ kramdown:
 ## Timeline
 This project was a coursework assigenment completed in **Fall 2022** during my undergraduate studies. I served as the team leader, coordinating a team of five members from diverse academic backgrounds.
 
+## Research Focus
+* NLP Sentiment Analysis
+* Co-occurrence Network Analysis
+* Text Analysis
+
 ## Overview
 People's attitude towards monority groups in China has changed significantly through the past decades, with the thriving of new social 
 platform like "Bilibili", people from Chinese monority groups, especially young people, are becoming more and more willing to express themselves on social media. Considering this background, our group were interested in understanding the current situation for these people.
