@@ -17,9 +17,9 @@ kramdown:
 This project was a coursework assigenment completed in **Fall 2022** during my undergraduate studies. I served as the team leader, coordinating a team of five members from diverse academic backgrounds.
 
 ## Research Focus
-* NLP Sentiment Analysis
-* Co-occurrence Network Analysis
-* Text Analysis
+* **NLP Sentiment Analysis**
+* **Co-occurrence Network Analysis**
+* **Text Analysis**
 
 ## Overview
 People's attitude towards monority groups in China has changed significantly through the past decades, with the thriving of new social 
