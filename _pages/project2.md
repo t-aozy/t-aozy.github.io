@@ -12,7 +12,7 @@ kramdown:
 {% include base_path %}
 
 
-In construction, last updated 12.4.
+Under construction, last updated 12.4. We have been working on 
 
 
 
