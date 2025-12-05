@@ -28,8 +28,7 @@ because it is embedded in unstructured free-text notes. In contrast, surrogate v
 and may include irrelevant or weakly informative proxies. Since these surrogates cannot be treated as the true outcome, out work develops a new method to reliably infer Y with the assiatnce of surrogate variables S based on a novel pre-additive noise distribution model called "Engression" from our previous work and explores the bias correction for such methods.
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:10px;">
   <img src="https://github.com/user-attachments/assets/caf2e422-66e9-4e16-8151-45c801d40685" width="445" height="254">
-  <img width="529" height="235" alt="image" src="https://github.com/user-attachments/assets/2c27d48f-0e20-4eca-9d84-ea72af9c2a0b" />
-</div>
+
 
 
 
