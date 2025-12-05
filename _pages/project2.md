@@ -11,7 +11,7 @@ kramdown:
 
 {% include base_path %}
 
-# Surrogate-Assisted Distributional Modeling for Semi-supervised Scenario
+# Project 2
 
 Under construction, last updated 12.5, 2025. <br> 
 We have been working on this project and please refer to my CV and SOP for more information.
