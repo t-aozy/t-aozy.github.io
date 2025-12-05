@@ -44,17 +44,7 @@ In this paper, We propose a new method ‘engression’ for estimating the condi
 
 
 ##  Latest Result
-<iframe src="{{ site.baseurl }}/files/engression.pdf" 
-        width="100%" 
-        height="600px" 
-        style="border:1px solid #ccc;">
-</iframe>
 
-The correct display should look like this, please reach out to taozy@umich.edu if any error occurs: <br>
-
-<p align="center">
-<img width="500" height="308" alt="image" src="https://github.com/user-attachments/assets/826e6c83-4a2d-43f8-b06e-4347eef9f81f" />
-</p>
 
 
 
