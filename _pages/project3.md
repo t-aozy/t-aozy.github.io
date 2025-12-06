@@ -12,7 +12,7 @@ kramdown:
 {% include base_path %}
 
 # AI Doctor Chatbot Development with LLM
-Code and descriptions are available [here](https://github.com/t-aozy/AI-Chatbot-Development-with-LLM).
+
 ## Timeline: October 2023 - June 2024
 
 ## Research Focus
@@ -56,8 +56,8 @@ To further optimize the large language model for our target task, we perform **s
 2. **Contextual Answer Generation**:  
    The retrieved data is then fed into the **large language model**, which summarizes and integrates the information to provide a **final professional answer** to the user
 
-## Code and Description
-Detailed code and descriptions are available [here](https://github.com/t-aozy/AI-Chatbot-Development-with-LLM).
+##  Description
+Detailed descriptions are available [here](https://github.com/t-aozy/AI-Chatbot-Development-with-LLM).
 
 <img width="726" height="517" alt="image" src="https://github.com/user-attachments/assets/051ce6b7-842c-4bb7-ae3a-fb6a0699e6da" />
 
